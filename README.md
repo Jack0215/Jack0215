@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 
-![Java](https://img.shields.io/badge/-Java%E2%98%85%%E2%98%85%%E2%98%85%%E2%98%85%%E2%98%86-0696D7?style=plastic&logo=Java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%E2%98%85%%E2%98%85%%E2%98%85%%E2%98%85%%E2%98%86-0696D7?style=plastic&logo=Java&logoColor=white)
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jack0215)](https://github.com/anuraghazra/github-readme-stats)
 
