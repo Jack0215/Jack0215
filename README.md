@@ -10,4 +10,4 @@
 |:---------:|:--------:|:-------------:|:------------------:|
 | **Education** |2020.7 ~ 2020.12|Java Developer Training Course|**Acron Academy**| 
 | **Work Experience** | 2018.4 ~ 2020.6 | develop of point of care test product  | **Bio Metro** |
-| **Research Actives** | 2016.2 ~ 2018.2 | an optoelectronics lab | **Department of Display Engineering in Hoseo university** | 
+| **Research Actives** | 2016.2 ~ 2018.2 | an optoelectronics lab | **Department of Display Engineering             in Hoseo university** | 
