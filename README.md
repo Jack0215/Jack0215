@@ -1,5 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 
+<p> 👋 Hi there! </p>
+
  <h3> 🔵 Career</h3>
 
 | **Type** | **Date** | **Contents** | **Organization** |
