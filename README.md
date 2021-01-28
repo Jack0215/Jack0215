@@ -11,7 +11,7 @@
 
 <h3>🛠 Languages</h3>
 
-![Java](https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-white)
+![Java](https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-blue)
 ![JSP](https://img.shields.io/badge/JSP-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-green)
 ![Spring](https://img.shields.io/badge/Spring-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-green) <br>
 
