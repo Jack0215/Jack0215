@@ -11,8 +11,9 @@
 
 <h3>🛠 Languages</h3>
 
-![Java](https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-blue)
+![Java](https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-green)
 ![JSP](https://img.shields.io/badge/JSP-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-green)
-![Spring](https://img.shields.io/badge/Spring-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-green) <br>
+![Spring](https://img.shields.io/badge/Spring-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-green)
+![React](https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-blue)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jack0215)](https://github.com/anuraghazra/github-readme-stats)
